@@ -1,0 +1,22 @@
+.speedDial{
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+}
+.speedDialIcon{
+    width: 56px;   
+    height: 56px;
+    border-radius: 100%;
+}
+/* .nav1{
+    background-color: #c5c3c6 !important;
+}
+.nav2{
+    background-color:#c5c3c6 !important;
+}
+.nav3{
+    background-color: #c5c3c6 !important;
+}
+.nav4{
+    background-color: #c5c3c6 !important;
+} */
